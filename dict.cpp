@@ -11,7 +11,7 @@ long long int pow(int p,int i){
         ans=ans*p;
     }
 
-    return p;
+    return ans;
 }
 
 int geth(AVLNode* node){
